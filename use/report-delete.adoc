@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/report-delete.html 
+keywords: BlueXP migration reports, volume reports 
+summary: 如果報告包含您修正的錯誤、或您不再需要該報告、您可能會想要刪除報告。 
+---
+= 刪除報告
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+如果報告包含您修正的錯誤、或您不再需要該報告、您可能會想要刪除報告。您可以刪除報告的一或多個執行個體。
+
+.步驟
+. 從 BlueXP 左側導航中、選取 * 儲存 * > * 移轉報告 * 。
+. 從「報告儀表板」選取報告。
+. 在報告列上、選取 * 動作 * … 功能表並選取 * 刪除報告 * 。
+. 如果存在多個報告執行個體、請選取您要刪除的執行個體、然後選取 * 刪除 * 。
++
+image:report-delete-multiple.png["此影像顯示「刪除」頁面、可讓您刪除多份報告"]
+
+. 選擇 * 刪除 * 以確認刪除。
+

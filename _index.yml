@@ -1,0 +1,34 @@
+---
+indexpage:
+  lead: 當您準備移動、移轉或複製檔案系統資料時、首先需要判斷您擁有的資料。透過 BlueXP 移轉報告服務、您可以快速識別儲存環境中的檔案、目錄、符號連結、硬式連結、檔案系統樹狀結構深度和廣度、最大檔案等數量。
+  tiles:
+  - title: 開始使用
+    links:
+    - title: 瞭解 BlueXP 移轉報告
+      url: "/get-started/intro.html"
+    - title: BlueXP 移轉報告的新功能
+      url: "/release-notes/whats-new.html"
+    - title: 快速入門
+      url: "/get-started/quick-start.html"
+    - title: 先決條件
+      url: "/get-started/prerequisites.html"
+    - title: 登入 BlueXP 移轉報告
+      url: "/get-started/login.html"
+    - title: 常見問題集
+      url: "/get-started/faq.html"
+  - title: 使用 BlueXP 移轉報告
+    links:
+    - title: 報告總覽
+      url: "/use/report-overview.html"
+    - title: 建立報告
+      url: "/use/report-create.html"
+    - title: 檢視報告範例
+      url: "/use/report-sample.html"
+    - title: 刪除報告
+      url: "/use/report-delete.html"
+  - title: 部落格與社群
+    links:
+    - title: NetApp社群
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: 雲端網路研討會
+      url: https://bluexp.netapp.com/events

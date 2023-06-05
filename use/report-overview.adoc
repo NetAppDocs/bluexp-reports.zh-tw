@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: use/report-overview.html 
+keywords: BlueXP migration reports, volume reports 
+summary: 透過 BlueXP 移轉報告服務、您可以快速識別儲存環境中的檔案、目錄、符號連結、硬式連結、檔案系統樹狀結構深度和廣度、最大檔案等數量。 
+---
+= 報告總覽
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+透過 BlueXP 移轉報告服務、您可以快速識別儲存環境中的檔案、目錄、符號連結、硬式連結、檔案系統樹狀結構深度和廣度、最大檔案等數量。
+
+BlueXP 移轉報告服務會依磁碟區顯示資料。
+
+使用 BlueXP 移轉報告、您可以達成下列目標：
+
+* link:../use/report-create.html["建立報告"]
+* link:../use/report-notifications.html["啟用通知"]
+* link:../use/report-delete.html["刪除報告"]
+

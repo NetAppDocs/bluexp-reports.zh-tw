@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: get-started/intro.html 
+keywords: how BlueXP migration reports works, reports, bluexp 
+summary: 透過 BlueXP 移轉報告服務、您可以快速識別儲存環境中的檔案、目錄、符號連結、硬式連結、檔案系統樹狀結構深度和廣度、最大檔案等數量。 
+---
+= 瞭解 BlueXP 移轉報告
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/concepts/
+
+
+[role="lead"]
+當您準備移動、移轉或複製檔案系統資料時、首先需要判斷您擁有的資料。透過 BlueXP 移轉報告服務、您可以快速識別儲存環境中的檔案、目錄、符號連結、硬式連結、檔案系統樹狀結構深度和廣度、最大檔案等數量。有了這項資訊、您就能事先知道、您想要使用的程序可以有效率且成功地處理您的庫存。
+
+BlueXP 移轉報告服務會顯示 NFS 和 AWS S3 工作環境的資訊。
+
+
+
+== BlueXP 移轉報告的優點
+
+BlueXP 移轉報告服務提供下列優點：
+
+* 提供簡單的程序、讓您取得工作環境的資料保護狀態
+* 提供儲存環境
+* 減少識別額外儲存需求所需的時間
+
+
+
+
+== BlueXP 移轉報告的用途
+
+使用 BlueXP 移轉報告、您可以完成下列工作：
+
+* 建立報告。
+* 使用「報告發佈圖表」、找出資料如何從一個報告日期變更為另一個報告日期。
+* 啟用有關產生報告的電子郵件通知。
+* 刪除報告。
+
+
+
+
+== 成本
+
+NetApp 不收取您使用服務的費用。
+
+
+
+== 授權
+
+不需要 NetApp 授權檔案（ NLF ）。

@@ -1,0 +1,16 @@
+---
+section: get-started
+title: 開始使用
+entries:
+- title: 瞭解 BlueXP 移轉報告
+  url: "/get-started/intro.html"
+- title: 先決條件
+  url: "/get-started/prerequisites.html"
+- title: 快速入門
+  url: "/get-started/quick-start.html"
+- title: 設定 BlueXP 移轉報告
+  url: "/get-started/setup.html"
+- title: 存取 BlueXP 移轉報告
+  url: "/get-started/login.html"
+- title: 常見問題集
+  url: "/get-started/faq.html"

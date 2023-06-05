@@ -1,0 +1,14 @@
+---
+section: use
+title: 使用 BlueXP 移轉報告
+entries:
+- title: BlueXP 移轉報告的用途
+  url: "/use/report-overview.html"
+- title: 建立報告
+  url: "/use/report-create.html"
+- title: 檢視「 Volume 」報告範例
+  url: "/use/report-sample.html"
+- title: 啟用報告通知
+  url: "/use/report-notifications.html"
+- title: 刪除報告
+  url: "/use/report-delete.html"

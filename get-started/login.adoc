@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: get-started/login.html 
+keywords: bluexp login, reports service log in 
+summary: 存取 BlueXP 中的服務、開始使用 BlueXP 移轉報告。 
+---
+= 存取 BlueXP 移轉報告
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+BlueXP 可透過 BlueXP SaaS 型使用者介面從您的網頁瀏覽器存取。
+
+若要登入BlueXP、您可以使用NetApp 支援網站 您的不實證資料、也可以使用電子郵件和密碼註冊NetApp雲端登入。 https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["深入瞭解登入"^]。
+
+.步驟
+. 開啟網頁瀏覽器、前往 https://console.bluexp.netapp.com/["BlueXP主控台"^]。
++
+出現 NetApp BlueXP 登入頁面。
+
+. 登入 BlueXP 。
+. 執行下列其中一項：
++
+** 從 BlueXP 左側導航欄中，選擇 * Storage* > * Migration reports* 。
+** 從 BlueXP Canvas 中選取您的工作環境。在右側面板中，選擇 *Reports* > *View Cluster Reports* 。
++
+如果您尚未產生任何報告、就會出現登陸頁面。如果您已產生報告、則會顯示報告清單。如果您在 BlueXP Canvas 右側面板中選取特定叢集、則只會針對該叢集篩選報告。
+
+
+
++
+image:reports-landing.png["此影像顯示服務登陸頁面"]
+
+

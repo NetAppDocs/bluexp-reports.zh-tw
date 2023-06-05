@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: get-started/faq.html 
+keywords: reports faq, frequently asked questions 
+summary: 如果您只是想要快速回答問題、這個常見問題集就能幫上忙。 
+---
+= BlueXP 移轉報告的常見問題集
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+如果您只是想要快速回答問題、這個常見問題集就能幫上忙。
+
+
+
+== 存取 BlueXP 移轉報告服務
+
+* 什麼是 BlueXP 移轉報告服務 URL ？ *
+
+對於 URL 、請在瀏覽器中輸入： https://console.bluexp.netapp.com/["https://console.bluexp.netapp.com/"^] 存取 BlueXP 主控台。
+
+* 如何設定 BlueXP 移轉報告？ *
+
+BlueXP 移轉報告服務不需要任何設定。BlueXP 移轉報告選項會在 BlueXP 左側導覽中自動啟用。
+
+* 我需要資料代理人嗎？ *
+
+在 BlueXP 複製與同步（ Cloud Sync ）中、您可能需要資料代理程式。不過、 BlueXP 移轉報告服務不需要資料代理程式。
+
+
+
+== 授權
+
+* 您是否需要授權才能使用 BlueXP 移轉報告？ *
+
+不需要 NetApp 授權檔案（ NLF ）。

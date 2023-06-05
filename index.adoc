@@ -1,0 +1,15 @@
+---
+layout: landing-page 
+sidebar: sidebar 
+permalink: index.html 
+summary: 當您準備移動、移轉或複製檔案系統資料時、首先需要判斷您擁有的資料。透過 BlueXP 移轉報告服務、您可以快速識別儲存環境中的檔案、目錄、符號連結、硬式連結、檔案系統樹狀結構深度和廣度、最大檔案等數量。  
+---
+= BlueXP 移轉報告
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+

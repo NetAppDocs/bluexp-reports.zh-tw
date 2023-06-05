@@ -1,0 +1,15 @@
+---
+sidebar: sidebar 
+permalink: release-notes/limitations.html 
+keywords: reports, bluexp 
+summary: 已知的限制可識別此服務版本不支援的平台、裝置或功能、或是無法與之正確互通。 
+---
+= 限制
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+已知的限制可識別此服務版本不支援的平台、裝置或功能、或是無法與之正確互通。

@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: get-started/prerequisites.html 
+keywords: what are BlueXP migration reports requirements, BlueXP migration reports prerequisites 
+summary: 驗證您的環境、網路存取、登入和網頁瀏覽器的支援、以開始使用 BlueXP 移轉報告。 
+---
+= BlueXP 移轉報告先決條件
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+首先、請確認您的營運環境、登入、網路存取和網頁瀏覽器是否準備就緒。
+
+BlueXP 移轉報告服務具有下列先決條件：
+
+* 存取 Cloud Volumes ONTAP Azure NetApp Files 、 Amazon FSX for NetApp ONTAP 或內部部署工作環境中的資料 LIF
+* 使用 ONTAP 9.7 或更新版本
+* 在 NetApp BlueXP 中設定的 BlueXP Connector 可用於管理 LIF 。請參閱的 BlueXP 文件 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["設定 BlueXP Connector"]。
+* 標準 https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["BlueXP 需求"]
+

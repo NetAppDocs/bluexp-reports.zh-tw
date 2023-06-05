@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: use/report-notifications.html 
+keywords: BlueXP migration reports, volume reports 
+summary: 透過 BlueXP 移轉報告服務、您可以設定通知、以便在產生新報告時發出警示。 
+---
+= 啟用報告通知
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+有了 BlueXP 移轉報告服務、 BlueXP 通知就會出現在 BlueXP 頁面右上角。
+
+您也可以設定通知、在產生新報告時透過電子郵件通知使用者。若要這麼做、您需要選取「資訊」通知設定。
+
+.步驟
+. 從 BlueXP 左側導航中、選取 * 儲存 * > * Canvas * 。
+. 若要查看通知、請選取右上角的通知 * 貝爾 * 圖示。
+. 若要啟用電子郵件通知、請執行下列步驟：
++
+.. 選擇 * 設定 * ... 選項、然後選取 * 警示與通知設定 * 。
+.. 選取 * 其他收件者 * 索引標籤。
+.. 在通知欄中、選取箭頭以展開該列。
+.. 對於通知層級、請選取 * 資訊 * 。
++
+image:notifications-email-info-option.png["此影像顯示資訊的通知選項設定"]
+
+
+
+

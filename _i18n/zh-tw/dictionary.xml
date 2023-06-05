@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">法律聲明</block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">法律聲明提供版權聲明、商標、專利等存取權限。</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">版權</block>
+  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">商標</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NetApp 、 NetApp 標誌及 NetApp 商標頁面上列出的標章均為 NetApp 、 Inc. 的商標。其他公司與產品名稱可能為其各自所有者的商標。</block>
+  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">專利</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">如需最新的 NetApp 擁有專利清單、請參閱：</block>
+  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">隱私權政策</block>
+  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">開放原始碼</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知檔案提供有關 NetApp 軟體所使用之協力廠商版權與授權的資訊。</block>
+  <block id="1efb05dc37fa7d63be2ce2314edc8f8f" category="summary">當您準備移動、移轉或複製檔案系統資料時、首先需要判斷您擁有的資料。透過 BlueXP 移轉報告服務、您可以快速識別儲存環境中的檔案、目錄、符號連結、硬式連結、檔案系統樹狀結構深度和廣度、最大檔案等數量。 </block>
+  <block id="d37700832249ce01fe020680b44f4717" category="doc">BlueXP 移轉報告</block>
+  <block id="889ecc0fe13da88e8f6b77e73fcc3703" category="summary">查看範例報告、瞭解資料的顯示內容。</block>
+  <block id="ca0f92a0543bd9bb0cef58eb7274a1fd" category="doc">檢視範例報告： Volumes （磁碟區）報告</block>
+  <block id="2ebcdd5eeb63d0a8390db1610daa7a75" category="paragraph">查看「 Volume 」報告範例、瞭解資料的顯示內容。</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步驟</block>
+  <block id="61c72c04996e2663abc77ce427e2615c" category="list-text">從 BlueXP 左側導航中、選取 * 儲存 * &gt; * 移轉報告 * 。</block>
+  <block id="9c10ad779f44c1e68914d4e54b1d95fc" category="list-text">要顯示報告，請選擇 *Actions* ... 。 選項、然後選取 * 檢視報告 * 。</block>
+  <block id="d92e9fbbaa132a49a57032058333a5dc" category="inline-image-macro">此影像顯示範例 Volumes 報告的頂端</block>
+  <block id="5823aec417ccd56feda26c5a9f121d7d" category="paragraph"><block ref="5823aec417ccd56feda26c5a9f121d7d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c06108e68e17c6b2b0d54f0677843ee1" category="inline-image-macro">此影像顯示範例 Volumes 報告的中間位置</block>
+  <block id="5d4ea628733fb39c199fc8791dbe5c7a" category="paragraph"><block ref="5d4ea628733fb39c199fc8791dbe5c7a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ef0e06ae55d94ca2dfb4babdc5661de7" category="inline-image-macro">此影像顯示範例 Volumes 報告中間的下一個區段</block>
+  <block id="f52ca9d2a2d76da39681340edb3cf152" category="paragraph"><block ref="f52ca9d2a2d76da39681340edb3cf152" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c2ca60d6a14b06b4b3528c2b47858048" category="list-text">若要瞭解欄的意義、請將游標移至部分資訊上。</block>
+  <block id="607e5b212f9088499882214504c86bc4" category="list-text">要以 CSV 格式查看報告，請選擇 *Actions* ... 。 選項，然後選擇 * 查看 PDF* 。</block>
+  <block id="20c30cc539c668262bb407e81759802f" category="list-text">檢視報告資訊：</block>
+  <block id="ca72ba0eeff5584e52bd275c2d9df48f" category="list-text">* 最大 * &gt; * 總深度 * ：磁碟區中某個目錄內嵌套的最大子目錄數。在範例中、目錄 / 子目錄 / 子目錄 2 的深度為 2 。</block>
+  <block id="a7c61ed1c889220336a36635748931f9" category="list-text">* 最大 * &gt; * 最大總寬度 * ： Volume 目錄中最大項目數。項目是檔案、子目錄、符號連結或硬式連結。</block>
+  <block id="eac69af1c376cc18b83b834d123aa2e6" category="list-text">* 最大 * &gt; * 最長路徑 * ：最長子目錄路徑加上磁碟區中的檔案名稱。</block>
+  <block id="406377849893bcb6829625fdc65eddf9" category="list-text">* 最大 * &gt; * 目錄 * ：最大目錄中的目錄數。</block>
+  <block id="597eaef8363054f0836b76a4976175ce" category="list-text">* 最大 * &gt; * 檔案 * ：最大目錄中的檔案數。可能有另一個目錄包含更多檔案、但它不是樹狀結構中最大的目錄。</block>
+  <block id="e867f5a9feff9da6eb5ee9ebd3f56682" category="list-text">* 存取時間 * ：上次存取檔案的時間。</block>
+  <block id="42fb8bcc831a051c62e343496402ea04" category="list-text">* 變更時間 * ：上次存取檔案中繼資料（例如權限）的時間。</block>
+  <block id="2b864fd245d1089b539ab5b63bd7c419" category="list-text">* 修改時間 * ：上次修改檔案內容的時間。</block>
+  <block id="f16036fcf8808bd7cc1ddb4495d94eda" category="list-text">* 前 5 大故障原因 * ： Volume 掃描期間發現的前 5 大錯誤原因。例如、報告可能包含與不存在或不正確存取權限或遺失檔案相關的錯誤。這類錯誤可能會影響整個檔案和目錄集的掃描。檢視錯誤清單之後、您可以解決這些問題、然後再次執行報告。</block>
+  <block id="ae33f1b67c04d2b7ffab79f31f4885c3" category="list-text">* 前 5 名目錄與檔案 * ：擁有前 5 名最大目錄數或最大檔案大小的目錄。</block>
+  <block id="19dc337f93e1a9e7658aeb348a0825d2" category="list-text">若要返回報告儀表板、請在麵包屑中選取 * 報告 * 。</block>
+  <block id="a8fc7be96f9e8175846f7bd300f09346" category="section-title">檢視報告發佈資訊</block>
+  <block id="418698c6dd36855e03e8f8ea93fa84d3" category="paragraph">您可能需要瞭解資料如何從一個報告日期變更為另一個報告日期。您可以使用「報告發佈圖表」來執行此作業。</block>
+  <block id="2792d78f511df7ab24acbfe17dbfbbbf" category="paragraph">報告發佈資訊僅適用於已完成的報告、且必須至少有兩份已完成的報告。</block>
+  <block id="e00d46e8cf1625d15cd92b8e5004205e" category="list-text">選取報告。</block>
+  <block id="f5499c61c8347ad8d166de6a9985a1a3" category="list-text">從右側的「動作」功能表中、選取 * 檢視報告發佈 * 。</block>
+  <block id="10e0c8f24ef6cbc75f7faa3fb77bc287" category="list-text">檢視報告發佈：</block>
+  <block id="e2b030238acd882ed3adc2c46b0d1904" category="list-text">* 隨時間分佈（總大小） * ：不同日期的磁碟區大小。</block>
+  <block id="f9233eb30eaa1a92e8ebfd6991c34c7a" category="list-text">* 隨時間分佈（項目總數） * ：不同日期的檔案、資料夾、連結和目錄數目。</block>
+  <block id="c650b80c5fd3e2f2cd383ea6a1d7daa2" category="summary">如果報告包含您修正的錯誤、或您不再需要該報告、您可能會想要刪除報告。</block>
+  <block id="2a14d8a91ebcbbc17b47e92bbeaac522" category="doc">刪除報告</block>
+  <block id="3be7e95a3e24e5b3cb999fc5c2d73395" category="paragraph">如果報告包含您修正的錯誤、或您不再需要該報告、您可能會想要刪除報告。您可以刪除報告的一或多個執行個體。</block>
+  <block id="6c85484f23442733526c084d5fd6676c" category="list-text">從「報告儀表板」選取報告。</block>
+  <block id="fb704c676b0720e2be6308d4f640ba08" category="list-text">在報告列上、選取 * 動作 * … 功能表並選取 * 刪除報告 * 。</block>
+  <block id="e795ad4a7338fe606701f8258c7b1993" category="list-text">如果存在多個報告執行個體、請選取您要刪除的執行個體、然後選取 * 刪除 * 。</block>
+  <block id="cd96e787d571d5e46c8fc2f789b4ed0a" category="inline-image-macro">此影像顯示「刪除」頁面、可讓您刪除多份報告</block>
+  <block id="7a6f037b04287cbc429c2e3423ac7f3e" category="paragraph"><block ref="7a6f037b04287cbc429c2e3423ac7f3e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="cd1d26c4935f66743d2c68f63702131b" category="list-text">選擇 * 刪除 * 以確認刪除。</block>
+  <block id="58358f86087fc5797f6615e9bc4ab872" category="summary">透過 BlueXP 移轉報告服務、您可以快速識別儲存環境中的檔案、目錄、符號連結、硬式連結、檔案系統樹狀結構深度和廣度、最大檔案等數量。</block>
+  <block id="9e008971464ca343286e5abe6d94fde3" category="doc">報告總覽</block>
+  <block id="fc9c9769ed74467223ed6d1d2fbc6c65" category="paragraph">BlueXP 移轉報告服務會依磁碟區顯示資料。</block>
+  <block id="ec5a21c18f8d15015bcf2d5bb39c124e" category="paragraph">使用 BlueXP 移轉報告、您可以達成下列目標：</block>
+  <block id="df63e1970b7cb20512cb62b542bcd3f8" category="inline-link-macro">建立報告</block>
+  <block id="e2be153635a803d011a93e7aabed60cb" category="list-text"><block ref="e2be153635a803d011a93e7aabed60cb" category="inline-link-macro-rx"></block></block>
+  <block id="dfa971b1782815747d0a49726fa9cd3b" category="inline-link-macro">啟用通知</block>
+  <block id="2a4af3861b5695a44115a2bf7b6323b6" category="list-text"><block ref="2a4af3861b5695a44115a2bf7b6323b6" category="inline-link-macro-rx"></block></block>
+  <block id="4064223c86b9d41691426e2c02de5b6b" category="list-text"><block ref="4064223c86b9d41691426e2c02de5b6b" category="inline-link-macro-rx"></block></block>
+  <block id="a90f723583edf085d1a5a3d18661dbcb" category="summary">透過 BlueXP 移轉報告服務、您可以設定通知、以便在產生新報告時發出警示。</block>
+  <block id="035660bc3d40c76296071d59cf163c56" category="doc">啟用報告通知</block>
+  <block id="e4ff465b5d873120906e52a1f88f3120" category="paragraph">有了 BlueXP 移轉報告服務、 BlueXP 通知就會出現在 BlueXP 頁面右上角。</block>
+  <block id="1ffef11e91b7d159440f242e16e982a4" category="paragraph">您也可以設定通知、在產生新報告時透過電子郵件通知使用者。若要這麼做、您需要選取「資訊」通知設定。</block>
+  <block id="406342b9e571ce04107cb98e2397ac98" category="list-text">從 BlueXP 左側導航中、選取 * 儲存 * &gt; * Canvas * 。</block>
+  <block id="fb0816f83811ebee70ac14cbc3024bf5" category="list-text">若要查看通知、請選取右上角的通知 * 貝爾 * 圖示。</block>
+  <block id="63201347680ea23b0859912c28ca3cc7" category="list-text">若要啟用電子郵件通知、請執行下列步驟：</block>
+  <block id="6a30bab84c716e0afe96102f6a2e1850" category="list-text">選擇 * 設定 * ... 選項、然後選取 * 警示與通知設定 * 。</block>
+  <block id="c5dc45621542da47726bd761703370ca" category="list-text">選取 * 其他收件者 * 索引標籤。</block>
+  <block id="e4a6cacb5a54beac52aa20163c972ffd" category="list-text">在通知欄中、選取箭頭以展開該列。</block>
+  <block id="22f65ce1309e30f5306c33ecbe960be4" category="list-text">對於通知層級、請選取 * 資訊 * 。</block>
+  <block id="ab99a4f8307b481f7e7bad3a73fc18c7" category="inline-image-macro">此影像顯示資訊的通知選項設定</block>
+  <block id="e768fe59b26e945acfb206c5ddc8a846" category="paragraph"><block ref="e768fe59b26e945acfb206c5ddc8a846" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8536bae122e5715a2a3abe6231b419a7" category="paragraph">您可以建立 Volume 報告、其中顯示檔案數量、目錄中的檔案、符號連結、硬連結、最大檔案大小、 還有更多。</block>
+  <block id="5eabcb5b1d6fdf7108bd8640e06526aa" category="paragraph">每次建立報告時、 BlueXP 移轉都會報告服務會掃描路徑並編譯資料。使用相同的報告定義、您可以擁有該報告的多個執行個體。</block>
+  <block id="6d767170892306b24b417164925a8bb5" category="paragraph">BlueXP 移轉報告服務會依磁碟區顯示資料。</block>
+  <block id="0648a4f3563a96fcf7d496cf28420c77" category="paragraph">您一次只能產生一個報告。</block>
+  <block id="cf2e794f09e94f30dd32f91f05fb8494" category="paragraph">您也可以下載 PDF 檔案格式的報告。</block>
+  <block id="ccf88253b824d41749f28a9e89d1fce6" category="admonition">BlueXP 時間表中列出了所有 BlueXP 移轉報告作業。若要查看時間軸、請選取 BlueXP * 設定 * &gt; * 時間軸 * 。</block>
+  <block id="8c82ce2803862276dbb6a2b1304e1269" category="list-text">選取 * 建立新報告 * 。</block>
+  <block id="c8ec88532489926b8e3843373cb278a6" category="list-text">輸入報告名稱。</block>
+  <block id="4283fef96f39a73819ca9a70530a0ed2" category="list-text">從下拉式清單中選取工作環境。</block>
+  <block id="ceff3ebf9573baf62c65e367b6f71cca" category="paragraph">只有在 BlueXP 中處於作用中且已啟用的環境才會出現在工作環境清單中。</block>
+  <block id="ec06c62e56740021fc22492d8b44447d" category="admonition">BlueXP Connector 必須能夠存取磁碟區的資料 LIF 、才能存取資料。</block>
+  <block id="4abca21f0a814cde9fc69bfc81c35645" category="inline-link">在 BlueXP 文件中深入瞭解 Connectors</block>
+  <block id="2d196d2cbf4edf14dabd5a8a39cd9b41" category="paragraph">如果您想要啟用環境、請參閱<block ref="43539e9c9c77cc11f389c24eb124c5ae" category="inline-link-rx"></block>。</block>
+  <block id="972c27985253fe38924f7f18a4d90a5e" category="list-text">使用 * 搜尋 * 圖示、搜尋要報告的磁碟區、或從清單中選擇。</block>
+  <block id="067462e998f421ea8fb1c1da96a65554" category="list-text">選取磁碟區。</block>
+  <block id="3b0a91a5ea7b77db2fb83f740b7d1303" category="list-text">選取 * 建立報告 * 。</block>
+  <block id="867f81ce9171f10118310484e40a2cd5" category="paragraph">BlueXP 移轉報告服務會產生報告、並將其列在報告清單中。</block>
+  <block id="8e43c284f0d373f4809b4c3f02b72f63" category="list-text">若要下載報告的 PDF 檔案、請選取 * 動作 * ... 。 選項並選擇 * 下載報告 * 。</block>
+  <block id="d6fcb2dbf04ea8d168f189b22905dc57" category="list-text">若要產生相同報告的另一個執行個體、請選取報告列、然後在右側選取 * 新增報告 * 。</block>
+  <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">已知的限制可識別此服務版本不支援的平台、裝置或功能、或是無法與之正確互通。</block>
+  <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">限制</block>
+  <block id="fa62285d299fafbecd9c02da5fa530c6" category="summary">透過全新的 BlueXP 移轉報告服務、您可以快速識別儲存環境中的檔案、目錄、符號連結、硬連結、檔案系統樹狀結構深度和廣度、最大檔案等數量。</block>
+  <block id="490414e0366b091220802d406e52c076" category="doc">新功能</block>
+  <block id="0a315dc6821559d103066780c255612b" category="paragraph">瞭解 BlueXP 移轉報告的新功能。</block>
+  <block id="2962158ebf7a34c626b48db40bc051ec" category="section-title">2023 年 6 月 2 日</block>
+  <block id="d792454ca1593678a5c636322be98be7" category="paragraph">有了這項資訊、您就能事先知道、您想要使用的程序可以有效率且成功地處理您的庫存。</block>
+  <block id="167aa714a6db028bb8fc39b77f1185ef" category="inline-link-macro">深入瞭解 BlueXP 移轉報告</block>
+  <block id="b231c4a1b96be6bf8407557f5befd70f" category="paragraph"><block ref="dd3bfed759864befe4edb623f4f7dfd5" category="inline-link-macro-rx"></block>。</block>
+  <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp以多種方式提供對BlueXP的支援。我們全年無休提供豐富的免費自助支援選項、例如知識庫（KB）文章和社群論壇。您的支援註冊包括透過網路票證提供遠端技術支援。</block>
+  <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">取得協助</block>
+  <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp以多種方式支援BlueXP及其雲端服務。我們全年無休提供豐富的免費自助支援選項、例如知識庫（KB）文章和社群論壇。您的支援註冊包括透過網路票證提供遠端技術支援。</block>
+  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">使用自我支援選項</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">這些選項可供免費使用、一天24小時、一週7天：</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">文件</block>
+  <block id="a4a6c2ea0078252eac2d74ef3e6c917c" category="paragraph">您目前正在檢視的BlueXP文件。</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">知識庫</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">請搜尋BlueXP知識庫、找出有助於疑難排解問題的文章。</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">社群</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">歡迎加入BlueXP社群、以追蹤後續討論或建立新討論。</block>
+  <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">mailto：ng-cloudmanager-feedback@netapp.com [意見反應電子郵件]</block>
+  <block id="6702efec14563f45f1ee2f8c613b8ad8" category="paragraph">我們非常重視您的意見。提交意見反應、協助我們改善藍圖。</block>
+  <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">利用NetApp支援建立案例</block>
+  <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">除了上述的自我支援選項、您也可以在啟動支援之後、與NetApp支援專家合作解決任何問題。</block>
+  <block id="8fece025a1a8fef7018449bf104a2527" category="list-title">開始之前</block>
+  <block id="920fe1428c19533eda6222fe7e58efbe" category="inline-link">瞭解如何管理與 BlueXP 登入相關的認證</block>
+  <block id="e1d2e1a634647fd631081bc4f6f8e523" category="list-text">若要使用 * 建立案例 * 功能、您必須先將 NetApp 支援網站 認證與 BlueXP 登入建立關聯。<block ref="2a0d8b66ca9e99d023b48cf25f40fb12" category="inline-link-rx"></block>。</block>
+  <block id="e49aa971c20ec071f1b5bbc3c7266769" category="list-text">如果您要為具有序號的 ONTAP 系統開啟案例、則您的 NSS 帳戶必須與該系統的序號相關聯。</block>
+  <block id="6254a4afeeb76765a127fe74d31c1b3d" category="list-text">在BlueXP中、按一下*「說明」&gt;「支援」*。</block>
+  <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">在「*資源*」頁面上、選擇「技術支援」下的其中一個可用選項：</block>
+  <block id="383133cb6f7207b1c65c3ace94aa5e95" category="list-text">如果您想與電話上的其他人通話、請按一下*「呼叫我們*」。您將會被導向netapp.com上的頁面、其中列出您可以撥打的電話號碼。</block>
+  <block id="5be2e1dfe4bf215289731df45ec8157b" category="list-text">按一下*建立案例*、與NetApp支援專家一起開啟問題單：</block>
+  <block id="b53e0a259f4a0c8e7da80d6c94e26c84" category="list-text">*《支援帳戶*》：選取與開立支援案例的人員相關的適用的NSS帳戶。NetApp 支援網站除了以下提供的其他電子郵件之外、此人將是NetApp聯絡的主要聯絡人。</block>
+  <block id="d950fb930d7f7e6bfdda1b91b4639a02" category="paragraph">如果您看不到您的NSS帳戶、可以瀏覽至BlueXP「Support（支援）」區段中的「* nssn* Management（* nssnss管理*）」索引標籤、將其新增至該處。</block>
+  <block id="d63bf50426f4c712554faec55b30c548" category="list-text">*服務*：選取問題相關的服務。例如、特定於服務工作流程或功能的技術支援問題的BlueXP。</block>
+  <block id="2e50c5f85523f0aba9ff2db10f18279c" category="list-text">*工作環境*：如果適用於儲存設備、請選取* Cloud Volumes ONTAP 《*》或*《內部部署*》、然後選取相關的工作環境。</block>
+  <block id="aa996e20900197b0ea41485ada083d8c" category="paragraph">工作環境清單位於您在服務的最上層橫幅中所選的BlueXP帳戶、工作區和Connector範圍內。</block>
+  <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*案例優先順序*：選擇案例的優先順序、可以是低、中、高或嚴重。</block>
+  <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">若要深入瞭解這些優先順序、請將滑鼠游標暫留在欄位名稱旁的資訊圖示上。</block>
+  <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*問題說明*：提供問題的詳細說明、包括任何適用的錯誤訊息或您執行的疑難排解步驟。</block>
+  <block id="002c6f26fb01affb37b8cf3cef7a1fb0" category="list-text">*其他電子郵件地址*：如果您想讓其他人知道此問題、請輸入其他電子郵件地址。</block>
+  <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">* 附件（選填） * ：上傳最多五個附件、一次上傳一個。</block>
+  <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">每個檔案的附件上限為 25 MB 。支援下列副檔名： txt 、 log 、 pdf 、 jpg/jpeg 、 rtf 、 doc/dox 、 xls/xlsx 和 csv 。</block>
+  <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">「建立案例」表單的快照、可讓您使用NetApp支援建立案例。</block>
+  <block id="509259be6d5e15d8959f705cbe0cbcc1" category="paragraph"><block ref="509259be6d5e15d8959f705cbe0cbcc1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成後</block>
+  <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">您的支援案例編號會出現快顯視窗。NetApp支援專家將會審查您的案例、並盡快回覆您。</block>
+  <block id="04e15da1deae9568b4dcda64fbb0c8d5" category="paragraph">如需支援案例的記錄、請按一下*設定&gt;時間軸*、然後尋找名為「create support case」的行動。 最右側的按鈕可讓您展開動作以查看詳細資料。</block>
+  <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">嘗試建立案例時、可能會遇到下列錯誤訊息：</block>
+  <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"您無權針對所選服務建立案例"</block>
+  <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">此錯誤可能表示、與該帳戶相關聯的NSS帳戶及記錄公司與BlueXP帳戶序號的記錄公司不同（例如960xxxx)或工作環境序號。您可以使用下列其中一個選項尋求協助：</block>
+  <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">使用產品內對談</block>
+  <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">請至提交非技術案例<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
+  <block id="898e35e1a4bf4b025c3edec879439b08" category="section-title">管理支援案例（預覽）</block>
+  <block id="8b74b053fbeeff5c3b6f4991cb1d028d" category="paragraph">您可以直接從BlueXP檢視及管理作用中和已解決的支援案例。您可以管理與您的NSS帳戶和貴公司相關的個案。</block>
+  <block id="394ef093ad3259b9ff0fe7406f015b83" category="paragraph">案例管理可透過預覽取得。我們計畫改善這項體驗、並在即將推出的版本中加入增強功能。請使用產品內建聊天功能、向我們傳送意見反應。</block>
+  <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">請注意下列事項：</block>
+  <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">頁面頂端的案例管理儀表板提供兩種檢視：</block>
+  <block id="01c3ffea552d74a5ae390b10e71a1f26" category="list-text">左側檢視顯示您所提供的使用者nssc帳戶在過去3個月內開啟的個案總數。</block>
+  <block id="e3b6c09a5686233f72ce1ea60a1eb088" category="list-text">右側檢視顯示過去3個月內、貴公司層級根據您的使用者nssc帳戶所開啟的個案總數。</block>
+  <block id="b19b168cc8a2b8c984465e140256b3a2" category="paragraph">表格中的結果會反映您所選檢視的相關個案。</block>
+  <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">您可以新增或移除感興趣的欄、也可以篩選優先順序和狀態等欄的內容。其他欄則只提供排序功能。</block>
+  <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">如需詳細資料、請參閱下列步驟。</block>
+  <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">在個別案例層級、我們提供更新案例附註或關閉尚未處於「已結案」或「待結案」狀態的案例的功能。</block>
+  <block id="34b1296d31cefa72dae9b3a364b1f444" category="list-text">按一下*個案管理*、如果出現提示、請將您的NSS帳戶新增至藍圖XP。</block>
+  <block id="d8ce1865cf1fe3cffd60300b4b86ad63" category="paragraph">「*個案管理*」頁面會顯示與您的BlueXP使用者帳戶相關聯的與NSS帳戶相關的未決個案。這是顯示在「* nssnmanagement *」頁面頂端的相同nss.帳戶。</block>
+  <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">（可選）修改表格中顯示的資訊：</block>
+  <block id="27635a52fe4c34c39ffc6430f4244ec6" category="list-text">在*組織案例*下、按一下*檢視*以檢視與貴公司相關的所有案例。</block>
+  <block id="059e856250b59be3069246887b74a23c" category="list-text">選擇確切的日期範圍或選擇不同的時間範圍、以修改日期範圍。</block>
+  <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">案例管理頁面上方表格上方選項的快照、可讓您選擇確切的日期範圍或過去7天、30天或3個月。</block>
+  <block id="0972db30d942fdb65d1732e6e84bde99" category="paragraph"><block ref="0972db30d942fdb65d1732e6e84bde99" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">篩選欄的內容。</block>
+  <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">「狀態」欄中篩選選項的快照、可讓您篩選出符合特定狀態（例如「作用中」或「已關閉」）的個案。</block>
+  <block id="cb6a777dd3c6e43b0dc441d38519d219" category="paragraph"><block ref="cb6a777dd3c6e43b0dc441d38519d219" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">出現在表格中的加號圖示</block>
+  <block id="0f6cac2f77150840994f84044fc1b12b" category="list-text">按一下以變更表格中顯示的欄 <block ref="b574dd55d604ddb721d869a0fc302007" category="inline-image-macro-rx" type="image"></block> 然後選擇您要顯示的欄。</block>
+  <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">顯示可在表格中顯示之欄的快照。</block>
+  <block id="e65065c4fd326b9f3a1eeb9453c30d73" category="paragraph"><block ref="e65065c4fd326b9f3a1eeb9453c30d73" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">表格最後一欄中出現三個點的圖示</block>
+  <block id="6ba7d68d8b3ef0f3398afb9d3ea96172" category="list-text">按一下即可管理現有案例 <block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block> 並選擇其中一個可用選項：</block>
+  <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*檢視案例*：檢視特定案例的完整詳細資料。</block>
+  <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">* 更新案例附註 * ：提供問題的其他詳細資料、或選擇 * 上傳檔案 * 最多附加五個檔案。</block>
+  <block id="f791bc685c526af8296381acff10f6a0" category="list-text">*結案案例*：提供結案原因的詳細資料、然後按一下*結案案例*。</block>
+  <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">螢幕擷取畫面、顯示您在表格最後一欄選取功能表後可以採取的動作。</block>
+  <block id="2ea260929e27ffcb623c8aa35689bd18" category="paragraph"><block ref="2ea260929e27ffcb623c8aa35689bd18" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="243263104c829e77835d632f591230d5" category="summary">在您透過NetApp技術支援開啟支援案例之前、您必須先在NetApp 支援網站 BlueXP中新增一個支援帳戶、然後註冊以取得支援。</block>
+  <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">註冊以取得支援</block>
+  <block id="0c7db2bd63c891adb2c0fa4527805d72" category="paragraph">您的 BlueXP 帳戶和個別 Cloud Volumes ONTAP 系統都需要註冊支援。</block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">支援登錄總覽</block>
+  <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">有兩種登錄形式可啟動支援服務權利：</block>
+  <block id="2322ca552c2b0ebe090c8485519246a8" category="list-text">註冊您的BlueXP帳戶ID支援訂閱（您的20位數960xxxxxxx序號位於BlueXP的「Support Resources（支援資源）」頁面）。</block>
+  <block id="23fdcbefa6d9cd877be7ceb7a18bb936" category="paragraph">這是您在BlueXP內任何服務的單一支援訂閱ID。每個BlueXP帳戶層級的支援訂閱都必須註冊。</block>
+  <block id="55ff64467cd508971910145ab5d6b3b8" category="list-text">在Cloud Volumes ONTAP 雲端供應商的市場中註冊與訂閱相關的支援服務序號（這些序號為20位數909601xxxxxxxx序號）。</block>
+  <block id="67dbdeb11e22ea7def810bade59ce818" category="paragraph">這些序號通常稱為「_PAYGO」序號、並在Cloud Volumes ONTAP 部署時由BlueXP產生。</block>
+  <block id="28164bf9e881ddc9e7ff74744bfce180" category="paragraph">註冊這兩種類型的序號、即可開啟支援服務單和自動建立個案。如下列所述、將 NetApp 支援網站 （ NSS ）帳戶新增至 BlueXP 即可完成登錄。</block>
+  <block id="0375f4855be072c7d856a0233cc21de9" category="section-title">支援雲端供應商解決方案</block>
+  <block id="e922b9aa0836a1d93e11cac0fe4c9004" category="paragraph">如需下列雲端供應商解決方案的技術支援、請參閱該產品 BlueXP 文件中的「取得說明」。</block>
+  <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSX for ONTAP Sf</block>
+  <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
+  <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
+  <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
+  <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">適用於 Google Cloud Cloud Volumes Service</block>
+  <block id="cf14bff66a8b72d3675db8ffe0f02ee3" category="list-text"><block ref="cf14bff66a8b72d3675db8ffe0f02ee3" category="inline-link-macro-rx"></block></block>
+  <block id="5a19febf1dcb23c10e8dcfde64ba764c" category="section-title">註冊您的 BlueXP 帳戶以取得 NetApp 支援</block>
+  <block id="6bbc2ba432f59ab65ee3d8ac5a58336e" category="paragraph">若要註冊以取得支援並啟動支援授權、 BlueXP 帳戶中的一位使用者必須將 NetApp 支援網站 帳戶與其 BlueXP 登入建立關聯。您如何註冊NetApp支援取決於您是否已擁有NetApp 支援網站 一個NetApp（NSS）帳戶。</block>
+  <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">現有的客戶、擁有一個新服務客戶帳戶</block>
+  <block id="7e177185e7eddff33dd8f3aeb7551132" category="paragraph">如果您是擁有NSS帳戶的NetApp客戶、您只需透過BlueXP註冊即可獲得支援。</block>
+  <block id="b019ab068deba8494415cbd226ca0c4e" category="list-text">在BlueXP主控台右上角、按一下「設定」圖示、然後選取*認證*。</block>
+  <block id="41e1e3cff4a07ce2ecc08e6c09f11092" category="list-text">按一下*使用者認證*。</block>
+  <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">選取 * 新增 NSS 認證 * 、然後遵循 NetApp 支援網站 （ NSS ）驗證提示。</block>
+  <block id="8c916e828e9e5a3592c8cac4e25928be" category="list-text">若要確認註冊程序是否成功、請按一下「說明」圖示、然後選取 * 「支援 * 」。</block>
+  <block id="8add4eb0d3f6ce61d374f3df3ee4eadf" category="paragraph">「 * 資源 * 」頁面應顯示您的帳戶已註冊以取得支援。</block>
+  <block id="10c56875db7a47f791d653e5d5bff0e9" category="inline-image-macro">螢幕擷取畫面會顯示帳戶序號和綠色核取方塊、以及註冊支援的文字。</block>
+  <block id="3d183819a15163ef2e2e7d9d764254a9" category="paragraph"><block ref="3d183819a15163ef2e2e7d9d764254a9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d9a01bdcfab6f0a10fc126999b4d5988" category="paragraph">請注意、如果其他 BlueXP 使用者尚未將 NetApp 支援網站 帳戶與 BlueXP 登入建立關聯、則不會看到此相同的支援登錄狀態。不過、這並不表示您的 BlueXP 帳戶尚未註冊支援。只要帳戶中有一位使用者已遵循這些步驟、您的帳戶就已登錄。</block>
+  <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">現有客戶、但無NSS.帳戶</block>
+  <block id="bdd862f49d428a850400bcf2f53cdaf2" category="paragraph">如果您是現有的 NetApp 客戶、擁有現有的授權和序號、但沒有 NSS_ 帳戶、則需要建立一個 NSS 帳戶、並將其與您的 BlueXP 登入建立關聯。</block>
+  <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">《使用者登錄表》NetApp 支援網站</block>
+  <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">完成建立NetApp 支援網站 一個不完善的帳戶<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
+  <block id="d61c9f72493817776f392db42ac446a2" category="list-text">請務必選擇適當的使用者層級、通常為* NetApp客戶/終端使用者*。</block>
+  <block id="5226d4ec1f4f81b740cbbd27635b441f" category="list-text">請務必複製上述序號欄位使用的BlueXP帳戶序號（960xxxx）。這將加速帳戶處理。</block>
+  <block id="0499bba105f8a891a2c671f1ba99dd34" category="list-text">完成下的步驟、將新的 NSS 帳戶與 BlueXP 登入建立關聯 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
+  <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp全新推出</block>
+  <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">如果您是NetApp的新客戶、而且您沒有新的NSS帳戶、請依照下列每個步驟操作。</block>
+  <block id="1afe19576f77bb0073c93359ed2cbb18" category="list-text">在BlueXP主控台右上角、按一下「說明」圖示、然後選取「*支援*」。</block>
+  <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">「說明」功能表的快照、其中「支援」是第一個列出的選項</block>
+  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">從「Support Registration（支援註冊）」頁面找到您的帳戶ID序號。</block>
+  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">NetApp的支援註冊網站</block>
+  <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">瀏覽至<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> 並選擇*我不是NetApp註冊客戶*。</block>
+  <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">填寫必填欄位（紅色星號）。</block>
+  <block id="1128fc8d5ec64880f4d49337ed798d31" category="list-text">在*產品系列*欄位中、選取* Cloud Manager*、然後選取適用的帳單供應商。</block>
+  <block id="50a1dc01b7312307c34a888071586955" category="list-text">複製上述步驟2的帳戶序號、完成安全性檢查、然後確認您已閱讀NetApp的全球資料隱私權政策。</block>
+  <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">系統會立即將電子郵件傳送至提供的信箱、以完成此安全交易。如果驗證電子郵件在幾分鐘內未送達、請務必檢查您的垃圾郵件資料夾。</block>
+  <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">確認電子郵件中的行動。</block>
+  <block id="201080500e946070a2e4873042507c77" category="paragraph">確認將您的申請提交給NetApp、並建議您建立NetApp 支援網站 一個申請表。</block>
+  <block id="cc8b0535948da368f832027c19b7f853" category="list-text">請務必複製上述序號欄位使用的帳戶序號（960xxxx）。這將加速帳戶處理。</block>
+  <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">在此過程中、NetApp應與您聯絡。這是新使用者的一次性就職練習。</block>
+  <block id="5cdee814e2d9ba3490a8f16d00c65759" category="paragraph">擁有 NetApp 支援網站 帳戶後、請完成下的步驟、將帳戶與 BlueXP 登入建立關聯 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
+  <block id="3e616bae81890a6c8fae17c9b45af152" category="section-title">建立 NSS 認證的關聯、以取得 Cloud Volumes ONTAP 支援</block>
+  <block id="d8f0da67cbab6e43f6d266bdab68cdc8" category="paragraph">若要為 Cloud Volumes ONTAP 啟用下列關鍵工作流程、必須將 NetApp 支援網站 認證與 BlueXP 帳戶建立關聯：</block>
+  <block id="a0518a10626dc11fd00e2d20265ad240" category="list-text">註冊隨用隨付 Cloud Volumes ONTAP 系統以取得支援</block>
+  <block id="321aadf78ef73521712291b7aba6411f" category="paragraph">您必須提供您的NSS帳戶、才能啟動系統支援、並取得NetApp技術支援資源的存取權。</block>
+  <block id="d51b2b497db445a16b1c9583c1abbb59" category="list-text">自帶授權（Cloud Volumes ONTAP BYOL）即可部署</block>
+  <block id="2ebfeabed40c2270d9fa8325080a4b3e" category="paragraph">您必須提供您的NSS帳戶、才能讓BlueXP上傳授權金鑰、並啟用您所購買期間的訂閱。這包括定期續約的自動更新。</block>
+  <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">升級Cloud Volumes ONTAP 更新版的更新版</block>
+  <block id="39f382b97080640c75604b5890f3a5d3" category="paragraph">將 NSS 認證與 BlueXP 帳戶建立關聯、與 BlueXP 使用者登入相關的 NSS 帳戶不同。</block>
+  <block id="e3bc6d35311568d55f1c8ea11984b964" category="paragraph">這些 NSS 認證會與您的特定 BlueXP 帳戶 ID 相關聯。屬於BlueXP帳戶的使用者可以從*支援&gt; nss管理*存取這些認證資料。</block>
+  <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">如果您有客戶層級的帳戶、可以新增一或多個NSS帳戶。</block>
+  <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">如果您有合作夥伴或經銷商帳戶、您可以新增一或多個NSS帳戶、但這些帳戶無法與客戶層級帳戶一起新增。</block>
+  <block id="d17d6b5dafebab6b7659da8850737e70" category="list-text">按一下「*」「nss管理」&gt;「新增nssAccount」*。</block>
+  <block id="8aaf101e623c543c7eef3c65f6233366" category="list-text">出現提示時、按一下*繼續*以重新導向至Microsoft登入頁面。</block>
+  <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp使用Microsoft Azure Active Directory做為身分識別供應商、提供專為支援與授權所設計的驗證服務。</block>
+  <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">在登入頁面上，提供您的 NetApp 支援網站註冊電子郵件地址和密碼，以執行身分驗證程序。</block>
+  <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">這些行動可讓BlueXP將您的nssa帳戶用於授權下載、軟體升級驗證、以及未來的支援註冊等項目。</block>
+  <block id="ec084bb25ed5b934c09b361069c246b2" category="list-text">NSS-帳戶必須是客戶層級的帳戶（而非來賓帳戶或暫存帳戶）。您可以擁有多個客戶層級的NSS帳戶。</block>
+  <block id="27387009488fe78dcc7cb7e3e432792f" category="list-text">如果該帳戶是合作夥伴層級帳戶、則只能有一個NSS帳戶。如果您嘗試新增客戶層級的NSS帳戶、但有合作夥伴層級的帳戶存在、您會收到下列錯誤訊息：</block>
+  <block id="d926847e4634e19a1aa7358becc0fa27" category="paragraph">「此帳戶不允許使用新增服務客戶類型、因為已經有不同類型的新增服務使用者。」</block>
+  <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">如果您擁有預先存在的客戶層級的NSS帳戶、並嘗試新增合作夥伴層級的帳戶、情況也是如此。</block>
+  <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">成功登入後、NetApp會儲存NSS.使用者名稱。</block>
+  <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">三個橫點的圖示</block>
+  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">這是系統產生的ID、會對應至您的電子郵件。在「* nssn*管理*」頁面上、您可以從顯示電子郵件 <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 功能表。</block>
+  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">如果您需要重新整理登入認證憑證權杖、也可以在中使用*更新認證*選項 <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 功能表。</block>
+  <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">使用此選項會提示您重新登入。請注意、這些帳戶的權杖會在90天後過期。系統會張貼通知、提醒您注意此點。</block>
+  <block id="fc6ced0bba58f9775b491e60804be57a" category="summary">NetApp BlueXP 移轉報告服務只需幾個步驟即可開始使用。</block>
+  <block id="7b0a9faa72ea57ba9ee39092522c06ea" category="doc">BlueXP 移轉報告快速入門</block>
+  <block id="7b2ff8064a4cb38d36707fa10a25ef34" category="paragraph">以下概述開始使用 BlueXP 移轉報告所需的步驟。每個步驟中的連結都會帶您前往提供更多詳細資料的頁面。</block>
+  <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">一</block>
+  <block id="a2d56436fc6737079209e6c74380c5fb" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block> 檢閱先決條件</block>
+  <block id="d73fd850784e1d8dbda69ab3ca51e7cf" category="inline-link-macro">確保您的環境符合這些要求</block>
+  <block id="ced4b743323450a7e7e56480339ef345" category="paragraph"><block ref="3ad9f09af84a8cf38e8d4dc8f0c46658" category="inline-link-macro-rx"></block>。</block>
+  <block id="ca8a2087e5557e317599344687a57391" category="inline-image-macro">三</block>
+  <block id="59d22eca56217804205c8cfe6639f505" category="paragraph-title"><block ref="4b6bbaeae9b6799ee02ea5158d279251" category="inline-image-macro-rx" type="image"></block> 接下來呢？</block>
+  <block id="d2b78bb589121de795035bc504cc0150" category="paragraph">以下是您接下來可能會採取的行動。</block>
+  <block id="9ed4cf690211b89cef92284a28bf364f" category="list-text"><block ref="319cfc390109573dc326914ee0f6ee73" category="inline-link-macro-rx"></block>。</block>
+  <block id="ae7124d6db76b3e1ef2cefe14d216983" category="inline-link-macro">檢視報告範例</block>
+  <block id="7128c51105ddf8e14f532482985b60dc" category="list-text"><block ref="b7f0f4176b5d439c1f89e8fb1a87428c" category="inline-link-macro-rx"></block>。</block>
+  <block id="859c5f374438c0ce88ce027c5b575cfd" category="list-text"><block ref="ba50e3125f62dc300860d21496ddd63e" category="inline-link-macro-rx"></block>。</block>
+  <block id="8123ce9453746632ec78c6d4628b940e" category="summary">存取 BlueXP 中的服務、開始使用 BlueXP 移轉報告。</block>
+  <block id="e5c36262d00adb4f14f0c1e2baf1165d" category="doc">存取 BlueXP 移轉報告</block>
+  <block id="11f765a8e4b14906b1a7016e255e911e" category="paragraph">BlueXP 可透過 BlueXP SaaS 型使用者介面從您的網頁瀏覽器存取。</block>
+  <block id="8e917942a77709dfd28c155f42a97553" category="inline-link">深入瞭解登入</block>
+  <block id="137f465ff17e307c6d821b8f1d37049b" category="paragraph">若要登入BlueXP、您可以使用NetApp 支援網站 您的不實證資料、也可以使用電子郵件和密碼註冊NetApp雲端登入。<block ref="83012c4a40bb3321733997744c83daa9" category="inline-link-rx"></block>。</block>
+  <block id="5975f7e9036c78e6217b16f295f0ca75" category="inline-link">BlueXP主控台</block>
+  <block id="d2dadcd80abef33f02b8317102f819f0" category="list-text">開啟網頁瀏覽器、前往<block ref="4d9841a08a6f1c082f5ba73c5d87fcc1" category="inline-link-rx"></block>。</block>
+  <block id="753e3c2055278365db83b605f29d4860" category="paragraph">出現 NetApp BlueXP 登入頁面。</block>
+  <block id="ad84736d27b7f84414783598f4ffd0d9" category="list-text">登入 BlueXP 。</block>
+  <block id="365d382b2d9ecca9b0d40171c69b38ff" category="list-text">執行下列其中一項：</block>
+  <block id="a039353b02f20a72fcc8719ba48d2a41" category="list-text">從 BlueXP 左側導航欄中，選擇 * Storage* &gt; * Migration reports* 。</block>
+  <block id="5423751a41e5942fc5fe2abdebdb57d2" category="list-text">從 BlueXP Canvas 中選取您的工作環境。在右側面板中，選擇 *Reports* &gt; *View Cluster Reports* 。</block>
+  <block id="06a3d0bed0b40f9c24288330e9fa12fc" category="paragraph">如果您尚未產生任何報告、就會出現登陸頁面。如果您已產生報告、則會顯示報告清單。如果您在 BlueXP Canvas 右側面板中選取特定叢集、則只會針對該叢集篩選報告。</block>
+  <block id="e2b24c4d37cafa8997655a600d9a15d0" category="inline-image-macro">此影像顯示服務登陸頁面</block>
+  <block id="7aeba7ec1302c3000153c085cf05c214" category="paragraph"><block ref="7aeba7ec1302c3000153c085cf05c214" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="b1151aae9531d2f5e85d085e8878cea6" category="summary">如果您只是想要快速回答問題、這個常見問題集就能幫上忙。</block>
+  <block id="c879dac37a34e8745ed6750c4319d217" category="doc">BlueXP 移轉報告的常見問題集</block>
+  <block id="a85c15392acd943088f3afffcf74bc6a" category="section-title">存取 BlueXP 移轉報告服務</block>
+  <block id="b3d7e824c46ba97cab7a884d1d3762bc" category="paragraph">* 什麼是 BlueXP 移轉報告服務 URL ？ *</block>
+  <block id="942a771213d3b59ba27960f61d97b1ac" category="inline-link"><block ref="942a771213d3b59ba27960f61d97b1ac" category="inline-link-rx"></block></block>
+  <block id="97196dcbb301c06780e3699ce570a095" category="paragraph">對於 URL 、請在瀏覽器中輸入：<block ref="6db7b50bf17b27cbede9f07c4fbc973e" category="inline-link-rx"></block> 存取 BlueXP 主控台。</block>
+  <block id="faea80717bda9e036387270da469359b" category="paragraph">* 如何設定 BlueXP 移轉報告？ *</block>
+  <block id="066a4c93428b73edcc2a1b2e1dc7c7f3" category="paragraph">BlueXP 移轉報告服務不需要任何設定。BlueXP 移轉報告選項會在 BlueXP 左側導覽中自動啟用。</block>
+  <block id="a6267fc7f986e8dd568152029246ca7e" category="paragraph">* 我需要資料代理人嗎？ *</block>
+  <block id="fe0d133fe82592c595ec9b64019ecf72" category="paragraph">在 BlueXP 複製與同步（ Cloud Sync ）中、您可能需要資料代理程式。不過、 BlueXP 移轉報告服務不需要資料代理程式。</block>
+  <block id="0b9c6eef4e3d3a222eb04e910d252339" category="section-title">授權</block>
+  <block id="b014f710615ca97ea2c7d283edf7277f" category="paragraph">* 您是否需要授權才能使用 BlueXP 移轉報告？ *</block>
+  <block id="5f2ba40ecab933bbf8f2c6806901fc08" category="paragraph">不需要 NetApp 授權檔案（ NLF ）。</block>
+  <block id="1ff1990b084daaf221566cb531f9f67e" category="summary">驗證您的環境、網路存取、登入和網頁瀏覽器的支援、以開始使用 BlueXP 移轉報告。</block>
+  <block id="ea097e310216feeb2926d04d4e7b1a7f" category="doc">BlueXP 移轉報告先決條件</block>
+  <block id="84804abf3404a430e85ae3299587a6b0" category="paragraph">首先、請確認您的營運環境、登入、網路存取和網頁瀏覽器是否準備就緒。</block>
+  <block id="6c609eeae39c1965984d80f6c9ddc365" category="paragraph">BlueXP 移轉報告服務具有下列先決條件：</block>
+  <block id="57eddb97f5276df2dd4701608d634c24" category="list-text">存取 Cloud Volumes ONTAP Azure NetApp Files 、 Amazon FSX for NetApp ONTAP 或內部部署工作環境中的資料 LIF</block>
+  <block id="a5092323960f93e625d8e82f7c5722f4" category="list-text">使用 ONTAP 9.7 或更新版本</block>
+  <block id="ff50631c8faa8e61c24dc2869d0576d6" category="inline-link">設定 BlueXP Connector</block>
+  <block id="574f3e4bef97a315b6eaee8f7635fb5c" category="list-text">在 NetApp BlueXP 中設定的 BlueXP Connector 可用於管理 LIF 。請參閱的 BlueXP 文件<block ref="dc2cd1f74a1cdd5711b932c03abab93b" category="inline-link-rx"></block>。</block>
+  <block id="aaff2faa2ced4f59f2455d4de2f98292" category="inline-link">BlueXP 需求</block>
+  <block id="41f6007d827d2062cd8fc3bd36398498" category="list-text">標準<block ref="2b0a54648fca0e58faa29a996b542b9f" category="inline-link-rx"></block></block>
+  <block id="4c8ca080b4812670e76f95dbe7dd0786" category="doc">瞭解 BlueXP 移轉報告</block>
+  <block id="fddaebf889a64fba52e32c06799bac37" category="paragraph">當您準備移動、移轉或複製檔案系統資料時、首先需要判斷您擁有的資料。透過 BlueXP 移轉報告服務、您可以快速識別儲存環境中的檔案、目錄、符號連結、硬式連結、檔案系統樹狀結構深度和廣度、最大檔案等數量。有了這項資訊、您就能事先知道、您想要使用的程序可以有效率且成功地處理您的庫存。</block>
+  <block id="e1c7ef7644b34be68c11fff18cc54c6f" category="paragraph">BlueXP 移轉報告服務會顯示 NFS 和 AWS S3 工作環境的資訊。</block>
+  <block id="58d1daca051484242ea541d70dc5b4de" category="section-title">BlueXP 移轉報告的優點</block>
+  <block id="74b7f28a54966ab8e350450e77eb7526" category="paragraph">BlueXP 移轉報告服務提供下列優點：</block>
+  <block id="449ab2ebbc7681a1ab2001a7dece6bfa" category="list-text">提供簡單的程序、讓您取得工作環境的資料保護狀態</block>
+  <block id="f53057cd34ed5a86586a785080e65722" category="list-text">提供儲存環境</block>
+  <block id="5ce0041b9707534efe43aa3f067b1374" category="list-text">減少識別額外儲存需求所需的時間</block>
+  <block id="3ef78ed62e0df77cc6b37aa3eedecb17" category="section-title">BlueXP 移轉報告的用途</block>
+  <block id="3e160fb31c0c7cb87c817b0cb1a8170e" category="paragraph">使用 BlueXP 移轉報告、您可以完成下列工作：</block>
+  <block id="4dd84a137b622f762bc6500bff771b08" category="list-text">建立報告。</block>
+  <block id="49741a62bc845e2451ef1798bb14aedd" category="list-text">使用「報告發佈圖表」、找出資料如何從一個報告日期變更為另一個報告日期。</block>
+  <block id="e088eec0e826098e9bb237ff4eb47a40" category="list-text">啟用有關產生報告的電子郵件通知。</block>
+  <block id="0de6abb0c0287c1f9508911e5552fb6a" category="list-text">刪除報告。</block>
+  <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">成本</block>
+  <block id="18720152dc5c7d0c9fdd39d12dc9d74b" category="paragraph">NetApp 不收取您使用服務的費用。</block>
+  <block id="0337257fdeb1db4277a6cc3e658116f3" category="summary">若要使用 BlueXP 移轉報告、請執行幾個步驟加以設定。</block>
+  <block id="13bdbdae496af613ceaa22c168cc58ff" category="doc">設定 BlueXP 移轉報告</block>
+  <block id="acdf7a9fe3889b82f80ae72f05d2e5d4" category="paragraph">您不需要設定 BlueXP 移轉報告服務。BlueXP 移轉報告選項會自動啟用、並顯示在 BlueXP 左側導覽中。</block>
+  <block id="ec7b864b292d4b5d02995f2c1a85c466" category="sidebar">當您準備移動、移轉或複製檔案系統資料時、首先需要判斷您擁有的資料。透過 BlueXP 移轉報告服務、您可以快速識別儲存環境中的檔案、目錄、符號連結、硬式連結、檔案系統樹狀結構深度和廣度、最大檔案等數量。</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">開始使用</block>
+  <block id="3be7f6e2f39674a339d336bff29ae0ed" category="sidebar">BlueXP 移轉報告的新功能</block>
+  <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">快速入門</block>
+  <block id="ee68e5b99222bbc29a480fcb0d1d6ee2" category="sidebar">先決條件</block>
+  <block id="e8c7a98875c477768ceda6a1e55fd926" category="sidebar">登入 BlueXP 移轉報告</block>
+  <block id="1fe917b01f9a3f87fa2d7d3b7643fac1" category="sidebar">常見問題集</block>
+  <block id="17264d685468baae74434172f42a7520" category="sidebar">使用 BlueXP 移轉報告</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">部落格與社群</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp社群</block>
+  <block id="ad203e818e0c9d7f42f1c260b33875f3" category="sidebar">雲端網路研討會</block>
+  <block id="c7d55cb558631b30751eb627573fe358" category="sidebar">BlueXP 移轉報告文件</block>
+  <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">所有BlueXP文件</block>
+  <block id="978efa47f76d7bb586ec0321a08d7d5b" category="sidebar">檢視「 Volume 」報告範例</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
+  <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">知識與支援</block>
+</blocks>

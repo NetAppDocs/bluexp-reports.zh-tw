@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: use/report-create.html 
+keywords: BlueXP migration reports, volume reports 
+summary: 透過 BlueXP 移轉報告服務、您可以快速識別儲存環境中的檔案、目錄、符號連結、硬式連結、檔案系統樹狀結構深度和廣度、最大檔案等數量。 
+---
+= 建立報告
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+您可以建立 Volume 報告、其中顯示檔案數量、目錄中的檔案、符號連結、硬連結、最大檔案大小、 還有更多。
+
+每次建立報告時、 BlueXP 移轉都會報告服務會掃描路徑並編譯資料。使用相同的報告定義、您可以擁有該報告的多個執行個體。
+
+BlueXP 移轉報告服務會依磁碟區顯示資料。
+
+您一次只能產生一個報告。
+
+您也可以下載 PDF 檔案格式的報告。
+
+
+TIP: BlueXP 時間表中列出了所有 BlueXP 移轉報告作業。若要查看時間軸、請選取 BlueXP * 設定 * > * 時間軸 * 。
+
+.步驟
+. 從 BlueXP 左側導航中、選取 * 儲存 * > * 移轉報告 * 。
+. 選取 * 建立新報告 * 。
+. 輸入報告名稱。
+. 從下拉式清單中選取工作環境。
++
+只有在 BlueXP 中處於作用中且已啟用的環境才會出現在工作環境清單中。
+
++
+
+TIP: BlueXP Connector 必須能夠存取磁碟區的資料 LIF 、才能存取資料。
+
++
+如果您想要啟用環境、請參閱 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html#when-a-connector-is-required["在 BlueXP 文件中深入瞭解 Connectors"]。
+
+. 使用 * 搜尋 * 圖示、搜尋要報告的磁碟區、或從清單中選擇。
+. 選取磁碟區。
+. 選取 * 建立報告 * 。
++
+BlueXP 移轉報告服務會產生報告、並將其列在報告清單中。
+
+. 要顯示報告，請選擇 *Actions* ... 。 選項、然後選取 * 檢視報告 * 。
+. 若要下載報告的 PDF 檔案、請選取 * 動作 * ... 。 選項並選擇 * 下載報告 * 。
+. 若要產生相同報告的另一個執行個體、請選取報告列、然後在右側選取 * 新增報告 * 。
+

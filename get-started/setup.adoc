@@ -1,0 +1,15 @@
+---
+sidebar: sidebar 
+permalink: get-started/setup.html 
+keywords: bluexp, reports, storage, inventory, volumes 
+summary: 若要使用 BlueXP 移轉報告、請執行幾個步驟加以設定。 
+---
+= 設定 BlueXP 移轉報告
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+您不需要設定 BlueXP 移轉報告服務。BlueXP 移轉報告選項會自動啟用、並顯示在 BlueXP 左側導覽中。
