@@ -18,6 +18,7 @@ BlueXP 移轉報告服務具有下列先決條件：
 
 * 存取 Cloud Volumes ONTAP Azure NetApp Files 、 Amazon FSX for NetApp ONTAP 或內部部署工作環境中的資料 LIF
 * 使用 ONTAP 9.7 或更新版本
+* 匯出在 ONTAP 中設定的原則。匯出原則會定義磁碟區的存取規則。
 * 在 NetApp BlueXP 中設定的 BlueXP Connector 可用於叢集管理 LIF 。叢集管理 LIF 是一種虛擬網路介面、可讓您執行叢集管理作業。請參閱的 BlueXP 文件 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["設定 BlueXP Connector"]。
 * 標準 https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["BlueXP 需求"]
 

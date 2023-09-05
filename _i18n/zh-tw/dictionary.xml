@@ -19,14 +19,11 @@
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步驟</block>
   <block id="61c72c04996e2663abc77ce427e2615c" category="list-text">從 BlueXP 左側導航中、選取 * 儲存 * &gt; * 移轉報告 * 。</block>
   <block id="9c10ad779f44c1e68914d4e54b1d95fc" category="list-text">要顯示報告，請選擇 *Actions* ... 。 選項、然後選取 * 檢視報告 * 。</block>
-  <block id="d92e9fbbaa132a49a57032058333a5dc" category="inline-image-macro">此影像顯示範例 Volumes 報告的頂端</block>
-  <block id="5823aec417ccd56feda26c5a9f121d7d" category="paragraph"><block ref="5823aec417ccd56feda26c5a9f121d7d" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c06108e68e17c6b2b0d54f0677843ee1" category="inline-image-macro">此影像顯示範例 Volumes 報告的中間位置</block>
   <block id="5d4ea628733fb39c199fc8791dbe5c7a" category="paragraph"><block ref="5d4ea628733fb39c199fc8791dbe5c7a" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ef0e06ae55d94ca2dfb4babdc5661de7" category="inline-image-macro">此影像顯示範例 Volumes 報告中間的下一個區段</block>
   <block id="f52ca9d2a2d76da39681340edb3cf152" category="paragraph"><block ref="f52ca9d2a2d76da39681340edb3cf152" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c2ca60d6a14b06b4b3528c2b47858048" category="list-text">若要瞭解欄的意義、請將游標移至部分資訊上。</block>
-  <block id="607e5b212f9088499882214504c86bc4" category="list-text">要以 CSV 格式查看報告，請選擇 *Actions* ... 。 選項，然後選擇 * 查看 PDF* 。</block>
   <block id="20c30cc539c668262bb407e81759802f" category="list-text">檢視報告資訊：</block>
   <block id="ca72ba0eeff5584e52bd275c2d9df48f" category="list-text">* 最大 * &gt; * 總深度 * ：磁碟區中某個目錄內嵌套的最大子目錄數。在範例中、目錄 / 子目錄 / 子目錄 2 的深度為 2 。</block>
   <block id="a7c61ed1c889220336a36635748931f9" category="list-text">* 最大 * &gt; * 最大總寬度 * ： Volume 目錄中最大項目數。項目是檔案、子目錄、符號連結或硬式連結。</block>
@@ -78,7 +75,6 @@
   <block id="22f65ce1309e30f5306c33ecbe960be4" category="list-text">對於通知層級、請選取 * 資訊 * 。</block>
   <block id="ab99a4f8307b481f7e7bad3a73fc18c7" category="inline-image-macro">此影像顯示資訊的通知選項設定</block>
   <block id="e768fe59b26e945acfb206c5ddc8a846" category="paragraph"><block ref="e768fe59b26e945acfb206c5ddc8a846" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="8536bae122e5715a2a3abe6231b419a7" category="paragraph">您可以建立 Volume 報告、其中顯示檔案數量、目錄中的檔案、符號連結、硬連結、最大檔案大小、 還有更多。</block>
   <block id="5eabcb5b1d6fdf7108bd8640e06526aa" category="paragraph">每次建立報告時、 BlueXP 移轉都會報告服務會掃描路徑並編譯資料。使用相同的報告定義、您可以擁有該報告的多個執行個體。</block>
   <block id="6d767170892306b24b417164925a8bb5" category="paragraph">BlueXP 移轉報告服務會依磁碟區顯示資料。</block>
   <block id="0648a4f3563a96fcf7d496cf28420c77" category="paragraph">您一次只能產生一個報告。</block>
@@ -95,7 +91,6 @@
   <block id="067462e998f421ea8fb1c1da96a65554" category="list-text">選取磁碟區。</block>
   <block id="3b0a91a5ea7b77db2fb83f740b7d1303" category="list-text">選取 * 建立報告 * 。</block>
   <block id="867f81ce9171f10118310484e40a2cd5" category="paragraph">BlueXP 移轉報告服務會產生報告、並將其列在報告清單中。</block>
-  <block id="8e43c284f0d373f4809b4c3f02b72f63" category="list-text">若要下載報告的 PDF 檔案、請選取 * 動作 * ... 。 選項並選擇 * 下載報告 * 。</block>
   <block id="d6fcb2dbf04ea8d168f189b22905dc57" category="list-text">若要產生相同報告的另一個執行個體、請選取報告列、然後在右側選取 * 新增報告 * 。</block>
   <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">已知的限制可識別此服務版本不支援的平台、裝置或功能、或是無法與之正確互通。</block>
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">限制</block>
@@ -358,4 +353,20 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="d687b97df8e082fb1a95e853c70aa1c2" category="section-title">2023 年 9 月 3 日</block>
+  <block id="a0c145fadd8b464775a61d2f1a2e0474" category="paragraph">更新後的 BlueXP 移轉報告服務可提供報告資料的更新。報告現在包含已分配的容量。</block>
+  <block id="c8ee6676f257ec9e4051a81e20e2b86b" category="list-text">匯出在 ONTAP 中設定的原則。匯出原則會定義磁碟區的存取規則。</block>
+  <block id="1e383dea923bfb90b25d365ea346d669" category="inline-image-macro">此影像顯示「 Volume 」範例報告的頂端、以及「項目總計」標籤</block>
+  <block id="9f14d85a083361c2913f91d6ae8e5d56" category="paragraph"><block ref="9f14d85a083361c2913f91d6ae8e5d56" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="970f8d2fea058058056d787fd2c64959" category="list-text">選擇下列任一選項：</block>
+  <block id="c6f9088e2293b9cbc7e61e8735ce4cd8" category="list-text">要查看和下載報告的 PDF 文件，請選擇 *Actions* ... 。 選項並選擇 * 下載報告 * 。</block>
+  <block id="0ddcb2a8f5b6ab59686b7d5eda06c881" category="list-text">若要顯示所有項目的相關資訊、請選擇 * 項目總計 * 索引標籤。</block>
+  <block id="5cd1136e0d113841c27f47eed7fef071" category="list-text">若要僅顯示已分配容量資訊、請選擇 * 已分配容量 * 標籤。</block>
+  <block id="7cd81b2badb8a49443232eba983ab827" category="inline-image-macro">此影像顯示範例 Volumes 報告的頂端、以及已分配容量索引標籤</block>
+  <block id="306f6523074f5531d21c8da5489a0b28" category="paragraph"><block ref="306f6523074f5531d21c8da5489a0b28" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d935fc1afac8a92ca974555060580961" category="inline-image-macro">此影像顯示「 Volume Distribution 」報告範例的頂端</block>
+  <block id="1cf0750149f1004c44ae5c6d08324ebc" category="paragraph"><block ref="1cf0750149f1004c44ae5c6d08324ebc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2eda031e57f814ce3091bfeaee3b48a2" category="summary">透過 BlueXP 移轉報告服務、您可以建立 Volume 報告、其中顯示檔案數量、目錄中的檔案、符號連結、硬連結、最大檔案大小、 已分配容量等。</block>
+  <block id="e89e178dc7f2cf739c88943d98757406" category="paragraph">您可以建立 Volume 報告、其中顯示檔案數量、目錄中的檔案、符號連結、硬連結、最大檔案大小、 已分配容量等。</block>
+  <block id="97f84448ed8b3b07f10a92cfa1a38076" category="list-text">若要檢視「發佈」報告、請從右側的「動作」功能表中、選取 * 檢視報告發佈 * 。</block>
 </blocks>
