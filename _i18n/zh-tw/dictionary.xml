@@ -96,7 +96,6 @@
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">限制</block>
   <block id="fa62285d299fafbecd9c02da5fa530c6" category="summary">透過全新的 BlueXP 移轉報告服務、您可以快速識別儲存環境中的檔案、目錄、符號連結、硬連結、檔案系統樹狀結構深度和廣度、最大檔案等數量。</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">新功能</block>
-  <block id="0a315dc6821559d103066780c255612b" category="paragraph">瞭解 BlueXP 移轉報告的新功能。</block>
   <block id="2962158ebf7a34c626b48db40bc051ec" category="section-title">2023 年 6 月 2 日</block>
   <block id="d792454ca1593678a5c636322be98be7" category="paragraph">有了這項資訊、您就能事先知道、您想要使用的程序可以有效率且成功地處理您的庫存。</block>
   <block id="167aa714a6db028bb8fc39b77f1185ef" category="inline-link-macro">深入瞭解 BlueXP 移轉報告</block>
@@ -371,4 +370,7 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">取得雲端供應商檔案服務的支援</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">如需雲端供應商檔案服務、其基礎架構或任何使用服務的解決方案的相關技術支援、請參閱該產品的 BlueXP 文件中的「取得說明」。</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">若要獲得 BlueXP 及其儲存解決方案與服務的專屬技術支援、請使用下列支援選項。</block>
+  <block id="3f3fab9b522f231cf00b909c6155b3d4" category="summary">瞭解 BlueXP 移轉報告的新功能。</block>
+  <block id="35214f9b3df21ed35db22cb765a9b147" category="section-title">2023 年 11 月 13 日</block>
+  <block id="c14af667110ffb482c0adaaed623dbe2" category="paragraph">您現在可以為使用 SMB/CIFS 通訊協定的磁碟區建立報告。</block>
 </blocks>

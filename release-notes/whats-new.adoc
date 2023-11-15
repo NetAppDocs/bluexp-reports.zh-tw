@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: 'reports what"s new, bluexp' 
-summary: 透過全新的 BlueXP 移轉報告服務、您可以快速識別儲存環境中的檔案、目錄、符號連結、硬連結、檔案系統樹狀結構深度和廣度、最大檔案等數量。 
+summary: 瞭解 BlueXP 移轉報告的新功能。 
 ---
 = 新功能
 :hardbreaks:
@@ -13,6 +13,12 @@ summary: 透過全新的 BlueXP 移轉報告服務、您可以快速識別儲存
 
 [role="lead"]
 瞭解 BlueXP 移轉報告的新功能。
+
+
+
+== 2023 年 11 月 13 日
+
+您現在可以為使用 SMB/CIFS 通訊協定的磁碟區建立報告。
 
 
 
